@@ -16,7 +16,7 @@ String name;
 		ob[2].name="PRAVEEN";
 		for(ArrOfObj o : ob)
 		System.out.println("ID is :"+o.id+" Name is :"+o.name);
-		System.out.println("successful")
+		System.out.println("successful");
 		/*for(int i =0; i<ob.length;i++)
 			System.out.println("ID is :  "+ob[i].id+"  Name is :  "+ob[i].name);*/
 	}
